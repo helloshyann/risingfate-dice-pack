@@ -1,0 +1,19 @@
+{
+	"id": "risingfate-dice-pack",
+	"name": "risingfate-dice-pack",
+	"title": "Rising Fate Dice Pack",
+	"description": "Adds custom dice textures and colors to Dice So Nice.",
+	"version": "1.0.2",
+	"author": "GM Shyann",
+	"minimumCoreVersion": "10",
+	"compatibleCoreVersion": "11",
+	"scripts": ["scripts/register-dice.js"],
+	"esmodules": [],
+	"styles": [],
+	"packs": [],
+	"dependencies": [
+		{
+			"name": "dice-so-nice"
+		}
+	]
+}
